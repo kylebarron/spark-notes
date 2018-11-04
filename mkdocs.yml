@@ -13,25 +13,9 @@ edit_uri: 'blob/master/docs/src/'
 site_url: 'https://kylebarron.github.io/spark-notes/'
 
 # Layout
-# nav:
-#     - Home: 'index.md'
-#     - Getting Started: 'getting_started.md'
-#     - Using Jupyter:
-#         - Introduction: 'using_jupyter/intro.md'
-#         - Jupyter Notebook: 'using_jupyter/notebook.md'
-#         - Atom: 'using_jupyter/atom.md'
-#         - JupyterLab: 'using_jupyter/lab.md'
-#         - Nteract: 'using_jupyter/nteract.md'
-#         - Jupyter QtConsole: 'using_jupyter/qtconsole.md'
-#         - Jupyter Console: 'using_jupyter/console.md'
-#         - Remote Servers: 'using_jupyter/remote.md'
-#     - Using the Stata Kernel:
-#         - Introduction: 'using_stata_kernel/intro.md'
-#         - Magics: 'using_stata_kernel/magics.md'
-#     - Troubleshooting: 'troubleshooting.md'
-#     - Comparison with ipystata: 'comparison_with_ipystata.md'
-#     - Addendum: 'addendum.md'
-#     - License: 'license.md'
+nav:
+    - Home: 'index.md'
+    - Administration: 'admin.md'
 
 # Theme
 theme:
